@@ -1,7 +1,0 @@
-cd my-website
-git init
-git add .
-git commit -m "Upload awal"
-git branch -M main
-git remote add origin https://github.com/marsyaa/Videokuviral.git
-git push -u origin main
